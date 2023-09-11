@@ -6,9 +6,9 @@
 <p>My name is Vanessa Bertoldo, and I currently work as a full-stack developer with a focus on backend using tools such as Node.js, React, Laravel, and Angular. Furthermore, I have started my studies in mobile development, where I use Android Studio, utilizing the Java and Kotlin languages.</p>
 <h2>Additional Information</h2>
 <ul>
-  <li><b>Age:</b>20 years</li>
+  <li><b>Age:</b> 20 years</li>
   <li><b>University: </b>FIAP</li>
-  <li><b>Course:</b>Systems development and analysis</li>
+  <li><b>Course:</b> Systems development and analysis</li>
 </ul>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vanessa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
