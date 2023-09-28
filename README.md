@@ -3,7 +3,7 @@
   <a href = "mailto:vanessa.bert311@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 <h2>Hello guys</h2>
-<p>My name is Vanessa Bertoldo, and I currently work as a full-stack developer with a focus on backend using tools such as Node.js, React, Laravel, and Angular. Furthermore, I have started my studies in mobile development, where I use Android Studio, utilizing the Java and Kotlin languages.</p>
+<p>My name is Vanessa Bertoldo, and I currently work as a full-stack developer with a focus on backend using tools such as Node.js, React and Laravel. Furthermore, I have started my studies in mobile development, where I use Android Studio, utilizing the Java and Kotlin languages.</p>
 <h2>Additional Information</h2>
 <ul>
   <li><b>Age:</b> 20 years</li>
