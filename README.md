@@ -1,3 +1,5 @@
+<img src = "try.jpeg" width = "400px" align = "right">
+
 # Hello guys
 <p>My name is Vanessa Bertoldo and I currently work with full-stack development with a focus on backend using tools such as Node.js, React and Laravel. Furthermore, I started my studies in mobile development, where I use Android Studio, using the Java and Kotlin languages.</p>
 
