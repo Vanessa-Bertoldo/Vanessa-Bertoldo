@@ -1,7 +1,7 @@
 <img src = "try.jpeg" width = "400px" align = "right">
 
 # Hello guys
-<p>My name is Vanessa Bertoldo and I currently work with full-stack development with a focus on backend using tools such as Node.js, React and Laravel. Furthermore, I started my studies in mobile development, where I use Android Studio, using the Java and Kotlin languages.</p>
+<p>Hello, I'm Vanessa Bertoldo and I have experience in full-stack development, with an emphasis on the backend. I work with several tools, such as Node.js, React, .NET and Angular. At the moment, I'm improving myself in mobile development, using Android Studio and learning the Java and Kotlin languages.</p>
 
 ## Additional Information
 <ul>
