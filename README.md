@@ -6,7 +6,7 @@
 ## Additional Information
 <ul>
   <li><b>Age:</b> 20 years</li>
-  <li><b>University: </b>FIAP 3/4</li>
+  <li><b>University: </b>FIAP</li>
   <li><b>Course:</b> Systems development and analysis</li>
 </ul>
 
