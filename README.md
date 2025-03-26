@@ -3,13 +3,6 @@
 # Hello guys
 <p>Hello, I'm Vanessa Bertoldo and I have experience in full-stack development, with an emphasis on the backend. I work with several tools, such as Node.js, React, .NET and Angular. At the moment, I'm improving myself in mobile development, using Android Studio and learning the Java and Kotlin languages.</p>
 
-## Additional Information
-<ul>
-  <li><b>Age:</b> 20 years</li>
-  <li><b>University: </b>FIAP</li>
-  <li><b>Course:</b> Systems development and analysis</li>
-</ul>
-
 ## Skills
 
 <div style="display: inline_block"><br>
